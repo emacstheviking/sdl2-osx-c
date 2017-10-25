@@ -1,7 +1,7 @@
 # SDL2 Programming with "C" for OS X
 
 Actually if you have enough skills to install the libraries on Windows
-or LInux and make it compile and link, the code presented should work
+or Linux and make it compile and link, the code presented should work
 on those platforms too, that's the beauty of SDL.
 
 # Aims
