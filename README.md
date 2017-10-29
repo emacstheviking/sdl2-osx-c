@@ -25,8 +25,15 @@ times be very frustrating so I would recommend you:
 
   https://seancharlesconsulting.wordpress.com/2017/10/24/getting-started-with-sdl2-and-c-on-osx/
 
-  The first lesson shows you how to code a very small application that will
+# Lesson Plan
+
+  01. The first lesson shows you how to code a very small application that will
   test the compiler and linker work OK with SDL2.
 
-  Good luck in your coding!
+  02. Simple keyboard handling via minimal SDL2 event loop. Handles SDL_QUIT.
+
+  03. Minimal rendering example to draw a simple box that responds to keyboard
+      input to move it around.
+
+Good luck in your coding!
   
